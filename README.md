@@ -20,6 +20,6 @@
 
 ### Branch
 * master branch 하위에 이름 이니셜 브랜치 생성  
-    ex) HJ
+    ex) hj
 * 본인 브랜치에 본인이 푼 문제만 ADD 해 PUSH
 * 이후 github에서 pull request로 master 브랜치에 해당 파일 올리기
